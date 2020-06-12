@@ -20,6 +20,17 @@
 	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.784494453386-pf4rbg4run4n1l5j0c16c951gdl8314o</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
@@ -39,6 +50,16 @@
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Manrope-VariableFont_wght.ttf</string>
+		<string>NotoSansJP-Black.otf</string>
+		<string>NotoSansJP-Bold.otf</string>
+		<string>NotoSansJP-Light.otf</string>
+		<string>NotoSansJP-Medium.otf</string>
+		<string>NotoSansJP-Regular.otf</string>
+		<string>NotoSansJP-Thin.otf</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
