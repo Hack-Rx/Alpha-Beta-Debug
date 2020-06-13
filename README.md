@@ -2,11 +2,11 @@
 
 We are building a mobile application which has following features:
 
-It provides an interactive chat option where the user can input his/her symptoms and get diagnosed for most disease or discomfort that they might be facing. It will also determine the possibility of COVID-19 and will help in avoiding placebo situations.
+1. It provides an interactive chat option where the user can input his/her symptoms and get diagnosed for most disease or discomfort that they might be facing. It will also determine the possibility of COVID-19 and will help in avoiding placebo situations.
 
-If the possibility of COVID-19 is above the threshold, then the user would be recommended to isolate themselves. While their symptoms would be tracked for next 15 days.
+2. If the possibility of COVID-19 is above the threshold, then the user would be recommended to isolate themselves. While their symptoms would be tracked for next 15 days.
 
-An interface to test stress levels so that we can avoid unnecessary cases of placebo.
+3. An interface to test stress levels so that we can avoid unnecessary cases of placebo.
 
 # How we measure stress??
 
