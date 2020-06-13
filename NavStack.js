@@ -10,6 +10,10 @@ import Gender from './screens/Introduction/Gender';
 import FinalIntroduction from './screens/Introduction/FinalIntroduction';
 import ChatBox from './screens/ChatBox';
 import SignOut from './screens/SignOut';
+import Test from './screens/Test';
+import Result from './screens/result';
+import FeedSymptom from './screens/FeedSymptom';
+import FeedFever from './screens/FeedFever';
 
 const Drawer = createDrawerNavigator();
 
@@ -69,6 +73,26 @@ export default function MyStack() {
         <Stack.Screen
           name="FinalIntroduction"
           component={FinalIntroduction}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="Test"
+          component={Test}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="Result"
+          component={Result}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="AddSymptom"
+          component={FeedSymptom}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="Fever"
+          component={FeedFever}
           options={{headerShown: false}}
         />
       </Stack.Navigator>

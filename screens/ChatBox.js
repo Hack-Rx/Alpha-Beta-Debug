@@ -28,7 +28,7 @@ export default class ChatBox extends React.Component {
     this.setState((previousState) => ({
       messages: GiftedChat.append(previousState.messages, messages),
     }));
-    console.log(this.state.messages);
+    console.log(messages);
   }
 
   render() {
