@@ -8,6 +8,12 @@ We are building a mobile application which has following features:
 
 3. An interface to test stress levels so that we can avoid unnecessary cases of placebo.
 
+# How is it different?(novelty)
+
+1. The app contains a stress-test questionnaire along with a specific corona questionnaire to help quantify stress  & possibility of stress triggered off a placebo. 
+
+2. The app contains a symptom check reminder to plot the progression of symptoms over time and check if any action is needed by authorities.
+
 # How we measure stress??
 
 The Perceived Stress Scale (PSS) is the most widely used psychological instrument for measuring the perception of stress. It is a measure of the degree to which situations in one’s life are appraised as stressful. Items were designed to tap how unpredictable, uncontrollable, and overloaded respondents find their lives. The scale also includes a number of direct queries about current levels of experienced stress.
@@ -18,4 +24,7 @@ The Perceived Stress Scale (PSS) is the most widely used psychological instrumen
 1. Hospital tracking system
 2. AI Integration to diagnose diseases.
 3. Stress-relief using calming audio files.
+
+
+
 
