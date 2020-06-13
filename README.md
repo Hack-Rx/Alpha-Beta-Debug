@@ -8,14 +8,14 @@ If the possibility of COVID-19 is above the threshold, then the user would be re
 
 An interface to test stress levels so that we can avoid unnecessary cases of placebo.
 
-How we measure stress??
+# How we measure stress??
 
 The Perceived Stress Scale (PSS) is the most widely used psychological instrument for measuring the perception of stress. It is a measure of the degree to which situations in one’s life are appraised as stressful. Items were designed to tap how unpredictable, uncontrollable, and overloaded respondents find their lives. The scale also includes a number of direct queries about current levels of experienced stress.
 
 
-What we can add next?
+# What we can add next?
 
-Hospital tracking system
-AI Integration to diagnose diseases.
-Stress-relief method.
+1. Hospital tracking system
+2. AI Integration to diagnose diseases.
+3. Stress-relief using calming audio files.
 
