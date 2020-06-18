@@ -44,6 +44,8 @@ def flipper_post_install(installer)
   end
 end
 
+
+
 target 'covrxapp' do
   # Pods for covrxapp
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
@@ -93,6 +95,8 @@ target 'covrxapp' do
     flipper_post_install(installer)
   end
 end
+
+
 
 target 'covrxapp-tvOS' do
   # Pods for covrxapp-tvOS
